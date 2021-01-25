@@ -1,5 +1,5 @@
-import SongList from './SongList';
-import SongDetail from './SongDetail';
+import SongList from "./SongList";
+import SongDetail from "./SongDetail";
 
 const App = () => {
   return (
@@ -12,9 +12,8 @@ const App = () => {
           <SongDetail />
         </div>
       </div>
-     
     </div>
   );
-}
+};
 
 export default App;
