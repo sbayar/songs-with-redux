@@ -1,6 +1,6 @@
 # About the project
 
-This project utilize Redux
+This project utilize Redux.
 
 # Getting Started with Create React App
 
